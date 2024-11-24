@@ -25,7 +25,7 @@ Based on the Northwind Trader data model, the dataset consists of **nine interco
 ### OverView Finding
 
 
-This project involved creating a dynamic Monthly Sales Analysis Dashboard that provides a clear and actionable overview of key business metrics. The dashboard was designed to assist decision-makers in tracking sales performance, identifying trends, and optimizing strategies based on data-driven insights. [here](https://app.powerbi.com/links/S_zObiUs1_?ctid=a20d9c8a-2343-47af-9caa-d0d4508edde1&pbi_source=linkShare&bookmarkGuid=335b8039-195d-494d-b002-18914e0ee57d)
+This project involved creating a dynamic Monthly Sales Analysis Dashboard that provides a clear and actionable overview of key business metrics. The dashboard was designed to assist decision-makers in tracking sales performance, identifying trends, and optimizing strategies based on data-driven insights.
 
 The analysis focused on several critical performance indicators:
 
@@ -76,6 +76,8 @@ In terms of customer loyalty, the analysis highlights the top-ordering customers
 
 
 ![image](https://github.com/user-attachments/assets/1b039f2e-1905-4f88-8442-56a6a8acda24)
+
+
 
 
 
